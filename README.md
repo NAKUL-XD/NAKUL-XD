@@ -1,9 +1,11 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nakul-xd&label=Profile%20views&color=0e75b6&style=flat" alt="nakul-xd" /> </p>
+
 # 💫 About Me:
 🔭 I’m currently working on Real time chat app in which user can interact with multi-functionality later will add Ai integration to it<br><br>🌱 I’m currently learning AI/ML and DS<br><br>📫 How to reach me work.nakul.08@gmail.com
 
 
 ## 🌐 Socials:
-<p align="center">
+<p align="left">
   <a href="https://instagram.com/_.nakul.yadav">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"/>
   </a>
@@ -27,6 +29,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NAKUL-XD&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=NAKUL-XD&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
