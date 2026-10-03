@@ -35,7 +35,6 @@
 
 📫 **Reach me:** [work.nakul.08@gmail.com](mailto:work.nakul.08@gmail.com)
 
-⚡ **Fun fact:** I design in After Effects & Photoshop too, so I care how things *look* as well as how they work.
 
 <br clear="right"/>
 
