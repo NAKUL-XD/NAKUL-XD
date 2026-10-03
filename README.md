@@ -31,7 +31,7 @@
 
 💬 **Also shipped:** a real-time chat app with multi-functionality
 
-🌱 **Currently learning:** AI/ML, Data Science, **GenAI & Agentic AI** (RAG, LangChain, LangGraph)
+🌱 **Currently learning:** AI/ML, **Agentic AI** (RAG, LangChain, LangGraph)
 
 📫 **Reach me:** [work.nakul.08@gmail.com](mailto:work.nakul.08@gmail.com)
 
