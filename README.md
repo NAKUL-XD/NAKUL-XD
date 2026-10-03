@@ -1,35 +1,280 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nakul-xd&label=Profile%20views&color=0e75b6&style=flat" alt="nakul-xd" /> </p>
+<!-- ===================== HEADER ===================== -->
+<div align="center">
 
-# 💫 About Me:
-🔭 I’m currently working on Real time chat app in which user can interact with multi-functionality later will add Ai integration to it<br><br>🌱 I’m currently learning AI/ML and DS<br><br>📫 How to reach me work.nakul.08@gmail.com
+<a href="https://github.com/nakul-xd">
+  <img src="./assets/banner.svg" width="100%" alt="Nakul Yadav - Full-Stack Developer, GenAI and Agentic AI Builder" />
+</a>
 
+<br/><br/>
 
-## 🌐 Socials:
-<p align="left">
-  <a href="https://instagram.com/_.nakul.yadav">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://www.linkedin.com/in/nakul-yadav-02a73527b">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://x.com/Nakul_08">
-    <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X"/>
-  </a>
-  <a href="mailto:work.nakul.08@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+<a href="https://www.linkedin.com/in/nakul-yadav-02a73527b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://x.com/Nakul_08"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+<a href="https://instagram.com/_.nakul.yadav"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="mailto:work.nakul.08@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=nakul-xd&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/nakul-xd?label=Followers&style=flat-square&color=6a5acd" alt="Followers" />
+<img src="https://img.shields.io/github/stars/nakul-xd?label=Stars&style=flat-square&color=8a2be2" alt="Stars" />
+
+</div>
+
+<br/>
+
+<!-- ===================== ABOUT ===================== -->
+## 💫 About Me
+
+<img align="right" src="./assets/profile-card.svg" width="320" alt="Nakul Yadav profile card" />
+
+🔭 **Now building:** a **multi-platform AI agent**
+
+💬 **Also shipped:** a real-time chat app with multi-functionality
+
+🌱 **Currently learning:** AI/ML, Data Science, **GenAI & Agentic AI** (RAG, LangChain, LangGraph)
+
+📫 **Reach me:** [work.nakul.08@gmail.com](mailto:work.nakul.08@gmail.com)
+
+⚡ **Fun fact:** I design in After Effects & Photoshop too, so I care how things *look* as well as how they work.
+
+<br clear="right"/>
+
+<br/>
+
+<!-- ===================== SKILL EXPLORER ===================== -->
+## 🧰 Skill Explorer
+<sub>👇 Click any category to expand it</sub>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,js,ts,html,css,sass,react,angular,redux,tailwind,bootstrap,nodejs,express,fastapi,mongodb,mysql,firebase,aws,cloudflare,vercel,netlify,git,github,postman,pytorch,pandas,numpy,matplotlib,ae,ps&perline=11" alt="Skill icons" />
 </p>
 
+<details open>
+<summary><b>🤖 &nbsp;GenAI & Agentic AI</b> &nbsp;<sub>(my current focus)</sub></summary>
+<br/>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=NAKUL-XD&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=NAKUL-XD&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NAKUL-XD&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p>
+<img src="https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI" />
+<img src="https://img.shields.io/badge/Agentic%20AI-FF4B4B?style=for-the-badge&logo=probot&logoColor=white" alt="Agentic AI" />
+<img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge&logo=databricks&logoColor=white" alt="RAG" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" alt="LangGraph" />
+<img src="https://img.shields.io/badge/Prompt%20Engineering-0E75B6?style=for-the-badge" alt="Prompt Engineering" />
+<img src="https://img.shields.io/badge/LLM%20Apps-6A5ACD?style=for-the-badge" alt="LLM Apps" />
+</p>
 
----
+</details>
 
+<details>
+<summary><b>🧠 &nbsp;AI / ML & Data Science</b></summary>
+<br/>
 
+<p>
+<img src="https://skillicons.dev/icons?i=py,pytorch,pandas,numpy,matplotlib" alt="ML icons" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
+</p>
 
+</details>
 
+<details>
+<summary><b>🎨 &nbsp;Frontend</b></summary>
+<br/>
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,angular,redux,ts,js,html,css,sass,tailwind,bootstrap" alt="Frontend icons" />
+<img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white" alt="React Query" />
+<img src="https://img.shields.io/badge/Context%20API-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Context API" />
+</p>
+
+</details>
+
+<details>
+<summary><b>⚙️ &nbsp;Backend & Real-time</b></summary>
+<br/>
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,py,ts" alt="Backend icons" />
+<img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.io" />
+</p>
+
+</details>
+
+<details>
+<summary><b>🗄️ &nbsp;Databases</b></summary>
+<br/>
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" alt="Database icons" />
+</p>
+
+</details>
+
+<details>
+<summary><b>☁️ &nbsp;Cloud, Deploy & Tools</b></summary>
+<br/>
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,cloudflare,vercel,netlify,git,github,postman" alt="Cloud and tools icons" />
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
+</p>
+
+</details>
+
+<details>
+<summary><b>💻 &nbsp;Core Languages</b></summary>
+<br/>
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,py,js,ts" alt="Language icons" />
+</p>
+
+</details>
+
+<details>
+<summary><b>🎬 &nbsp;Creative</b></summary>
+<br/>
+
+<p>
+<img src="https://skillicons.dev/icons?i=ae,ps" alt="Creative icons" />
+</p>
+
+</details>
+
+<br/>
+
+<details>
+<summary><b>🗺️ &nbsp;See my skill map</b> &nbsp;<sub>(interactive mindmap)</sub></summary>
+<br/>
+
+```mermaid
+mindmap
+  root((Nakul))
+    GenAI and Agents
+      RAG
+      LangChain
+      LangGraph
+      Prompt Engineering
+    AI ML and Data
+      PyTorch
+      scikit-learn
+      Pandas
+      NumPy
+      Matplotlib
+    Frontend
+      React
+      Angular
+      Redux
+      Tailwind
+    Backend
+      Node.js
+      Express
+      FastAPI
+      Socket.io
+    Data and Cloud
+      MongoDB
+      MySQL
+      Firebase
+      AWS
+      Vercel
+    Creative
+      After Effects
+      Photoshop
+```
+
+</details>
+
+<br/>
+
+<!-- ===================== LEARNING ROADMAP ===================== -->
+## 🚀 Currently Leveling Up
+
+- [x] Full-stack web development (React, Node.js, Express)
+- [x] Real-time apps with Socket.io
+- [ ] AI / Machine Learning & Data Science
+- [ ] Retrieval-Augmented Generation (RAG)
+- [ ] LangChain & LangGraph agent workflows
+- [ ] Multi-platform AI agent (in progress)
+
+<br/>
+
+<!-- ===================== PROJECTS ===================== -->
+## 🛠️ Featured Work
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 Multi-Platform AI Agent
+An AI agent that works across multiple platforms. *In progress.*
+
+<sub>**Stack:** Python · LangChain · LangGraph · RAG</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### 💬 Real-Time Chat App
+A multi-functionality chat application with live messaging. AI features planned.
+
+<sub>**Stack:** React · Node.js · Express · Socket.io · MongoDB</sub>
+
+</td>
+</tr>
+</table>
+
+<p align="center"><a href="https://github.com/nakul-xd?tab=repositories"><img src="https://img.shields.io/badge/Browse%20all%20repositories%20%E2%86%92-0E75B6?style=for-the-badge&logo=github&logoColor=white" alt="Browse repositories" /></a></p>
+
+<br/>
+
+<!-- ===================== CONTRIBUTION ACTIVITY ===================== -->
+## 🔥 Contribution Activity
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/0e75b6/nakul-xd" width="100%" alt="Nakul's GitHub contribution calendar" />
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=NAKUL-XD&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nakul-xd&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution activity graph" />
+</p>
+
+<details>
+<summary><b>🐍 &nbsp;Contribution snake</b> &nbsp;<sub>(eats my commits, updates every 12 hours)</sub></summary>
+<br/>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nakul-xd/nakul-xd/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nakul-xd/nakul-xd/output/github-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/nakul-xd/nakul-xd/output/github-snake.svg" width="100%" />
+</picture>
+</p>
+
+</details>
+
+<br/>
+
+<!-- ===================== STATS ===================== -->
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NAKUL-XD&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" width="48%" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NAKUL-XD&theme=tokyonight&hide_border=true&layout=compact" width="48%" alt="Top languages" />
+</p>
+
+<br/>
+
+<!-- ===================== CONTACT ===================== -->
+<div align="center">
+
+### 🤝 Let's build something together
+
+<sub>Open to collaborations, ambitious products and useful engineering work.</sub>
+
+<br/><br/>
+
+<a href="mailto:work.nakul.08@gmail.com"><img src="https://img.shields.io/badge/Say%20Hello-work.nakul.08%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" /></a>
+
+</div>
